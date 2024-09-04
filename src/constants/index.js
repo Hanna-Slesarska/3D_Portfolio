@@ -119,6 +119,8 @@ export const experiences = [
         iconBg: "#accbe1",
         date: "February 2024 - Current",
         points: [
+            "Implemented adaptive and modular styles using the CSS-in-JS library-styled components, which reduced code duplication by 30% and improved maintainability.",
+            "Integrated i18n into a React app, revolutionizing UX and increasing satisfaction by 20%, significantly boosting user engagement and retention.",
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -132,6 +134,8 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "September 2023 - current",
         points: [
+            "Improved user engagement by 30% through the implementation of TypeScript, React, and the integration of Prismic CMS, creating a more interactive and user-friendly platform.",
+            "Revamped an outdated website using Next.js and ChakraUI, increasing mobile functionality and user engagement by 40%.",
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -145,10 +149,12 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "January 2020 - February 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Transformed user experience, leading to a 43% increase in conversion rates with a user-friendly app interface, enhancing usability, accessibility, and PWA (Progressive Web Apps) implementation.",
+            "Streamlined project execution with React and Git, achieving a 15% faster time-to-market for new websites and boosting client retention rates by 30% through improved performance and UX(user experience).",
+            "Optimized technical SEO to advance the website from the 4th page to the 1st in Google search results within 19 days.",
+            "Achieved conversion rates by 26% through a user-centric layout redesign and integration of key information.",
+            "Revolutionized user experience and increased satisfaction by 20% by integrating Clerk into  Next.js 14 for secure authentication and Stripe for smooth transactions, significantly improving user engagement and retention in SaaS app.",
+            "Slashed development cycle by 30% with shadcn/ui for UI efficiency and Cloudinary AI, enhancing feature speed and adaptivity.",
         ],
     },
 ];
