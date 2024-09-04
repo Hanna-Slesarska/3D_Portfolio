@@ -15,9 +15,9 @@ const About = () => {
         Hello, I'm <span className='blue-gradient_text font-semibold drop-shadow'>Hanna Slesarska</span>
       </h1>
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-        <p>
-          Software Engineer based in Chicago ...
-        </p>
+          <p>Front-end Software Engineer based in Chicago, specializing in app development, debugging, and testing; integrating AI to enhance user experience, engagement, and conversion rates. 
+            <br />Committed to translating complex client requirements into intuitive web solutions, driving improved user interaction and business outcomes. 
+          </p>
       </div>
 
       <div className='py-10 flex flex-col'>
