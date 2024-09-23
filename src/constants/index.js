@@ -25,7 +25,8 @@ import {
     AL,
     design_studio,
     estore,
-    task
+    task, 
+    saas
 } from '../assets/projects/index'
 
 export const skills = [
@@ -330,6 +331,34 @@ export const socialLinks = [
             {
                 imageUrl: react,
                 name: "React",
+                type: "Frontend",
+            },
+        ]
+    },
+    {
+        name: 'AI SaaS App',
+        description: 'Developed a user-friendly web application that enables users to magically enhance, restore, and manipulate images with features like object removal, recoloring, and background elimination, all powered by advanced AI technology.',
+        link: 'https://imaginify-mu-nine.vercel.app/',
+        image: saas,
+        skillsUsed: [
+            {
+                imageUrl: nextjs,
+                name: "Next.js",
+                type: "Frontend",
+            },
+            {
+                imageUrl: typescript,
+                name: "TypeScript",
+                type: "Frontend",
+            },
+            {
+                imageUrl: mongodb,
+                name: "MongoDB",
+                type: "Database",
+            },
+            {
+                imageUrl: tailwindcss,
+                name: "Tailwind CSS",
                 type: "Frontend",
             },
         ]
